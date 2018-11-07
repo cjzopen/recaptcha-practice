@@ -1,3 +1,3 @@
 # recaptcha-practice
 
-include [https://github.com/google/recaptcha](#reCAPTCHA PHP client library version 1.2.1)
+include [reCAPTCHA PHP client library version 1.2.1](https://github.com/google/recaptcha)
